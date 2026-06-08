@@ -98,4 +98,3 @@ Esto busca garantizar una distribución equitativa de las distancias y evitar fa
 ## Autor(es)
 * Andrés Eduardo Narváez Cañas
 * David Mármol
-Proyecto desarrollado para la asignatura Análisis y Diseño de Algoritmos.
