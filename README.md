@@ -96,6 +96,6 @@ Esto busca garantizar una distribución equitativa de las distancias y evitar fa
 * Se utiliza distancia Manhattan para medir desplazamientos.
 
 ## Autor(es)
-Andrés Eduarodo Narváez Cañas
-David Mármol
+* Andrés Eduardo Narváez Cañas
+* David Mármol
 Proyecto desarrollado para la asignatura Análisis y Diseño de Algoritmos.
