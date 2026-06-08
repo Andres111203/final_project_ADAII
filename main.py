@@ -45,7 +45,7 @@ Tulua 0 3
 Rio Frio 1 2"""
 )
 
-# Botón
+# Botón para generar el modelo en MiniZinc
 
 tk.Button(
     root,
@@ -53,7 +53,7 @@ tk.Button(
     command=solve
 ).pack(pady=10)
 
-# Salida
+# Salida código Minizinc
 
 tk.Label(root, text="Código MiniZinc").pack()
 
